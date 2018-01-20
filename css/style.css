@@ -52,6 +52,11 @@ p {
   font-size: inherit;
 }
 
+.mapa_localizacao{
+    text-align: center;
+    
+} 
+
 footer.page-footer {
   margin: 0;
 }
